@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Ratu Faradiba Al Isra Syam 👋
 
 - 🔭 I’m College Student from University Bina Sarana Informatika.
 - 🌱 I’m currently learning Fullstack Web Developer on PT Nurul Fikri Cipta Inovasi.
